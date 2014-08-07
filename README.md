@@ -12,6 +12,7 @@ Members in order joined
 6. Andrew Young
 7. Michael Vu
 8. Jennifer Nghe
+9. John Nguyen
 
 #### Rules of UNAVSA Tech Mafia
 
@@ -87,3 +88,10 @@ if you don't know how to use github edit this file by clicking on the pencil. an
    1. Technological advancements make the world go round. The possibilities are endless!
    2. I'm always down to learn new things.
    3. This sounds like something we could add to VSAcademy.
+
+#### John Nguyen - Austin/San Antonio, TX
+##### UTSA VSA
+
+  1. Efficiency and breaking boundaries with development. Technology is the future so why wait to upgrade?
+  2. To learn and develop better teamwork skills. I have tried this type of stuff with friends, but it has never pulled through. I want to have a solid team I can always confide in and share knowledge amongst my peers.
+  3. I love coding and the logic process behind it. The challenge will always be tough, otherwise you aren't expanding your depths. The concept of teamwork excites me every time cause you can approach/execute in various ways without conforming to one specific style.
